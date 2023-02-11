@@ -1,29 +1,18 @@
 # otanime
 
-This template should help get you started developing with Vue 3 in Vite.
+Just another anime streaming site for fun.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Todos
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- [x] Setup Vue3 with Tailwind, Vite, Vue Router, and Pinia
+- [ ] Fetch animes from Consumet API
+- [ ] Mobile First Approach
+- [ ] Homepage with trending, popular, and newest animes
+- [ ] All anime page with filters (search, genre, status, year, etc..)
+- [ ] Random anime
+- [ ] Show anime with details
+- [ ] Video player
+- [ ] Dark mode
+- [ ] Focus mode / darken background when watching
+- [ ] Watch room (?) (socket io)
